@@ -1,0 +1,5 @@
+name: D6 export
+type: module
+description: Export D6 Defeat-DD data
+core: '8.x'
+package: Custom
